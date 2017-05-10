@@ -1,0 +1,6 @@
+framework module VisualIntuition {
+  umbrella header "VisualIntuition.h"
+
+  export *
+  module * { export * }
+}

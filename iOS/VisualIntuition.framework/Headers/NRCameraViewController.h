@@ -10,12 +10,21 @@
 
 typedef void (^TrackerFound)(void);
 typedef void (^ShareBlock)(UIViewController*);
+typedef void (^TargetScanned)(NSString*, NSString*, NSString*);
+typedef void (^CTAButtonTapped)(NSString*, NSString*, NSString*);
+typedef void (^ScannerTitle)(NSString*, NSString*);
 
 @protocol CustomFontDependant <NSObject>
 - (void)fontChanged:(NSString*)fontName;
 @end
 
 @interface NRCameraViewController: UINavigationController
+
+@property (nonatomic, copy) TargetScanned targetScannedBlock;
+    @property (nonatomic, copy) CTAButtonTapped ctaButtonTappedBlock;
+    @property (nonatomic, copy) ScannerTitle scannerTitleBlock;
+
+
 + (instancetype)instance:(TrackerFound)callback withShareBlock:(ShareBlock)shareBlock;
 + (instancetype)instanceForCampaign:(NSString*)campaignName withCallback:(TrackerFound)callback withShareBlock:(ShareBlock)shareBlock;
 + (void)downloadRemoteVideosForCampaign:(NSString*)campaignName;

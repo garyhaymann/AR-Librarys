@@ -6,15 +6,63 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		jeeLnBk4clRkWwtQtwk1g3rh/Xk=
+		sLxmG7lY1coBtPxAgEE68437Oe0=
+		</data>
+		<key>AvenirLTStd-Black.otf</key>
+		<data>
+		3XHRCycKKjSImqu0CmUbkNDKvjw=
+		</data>
+		<key>AvenirLTStd-BlackOblique.otf</key>
+		<data>
+		Z8ftBIOTgdQh0LZEj4uV42UuaA4=
+		</data>
+		<key>AvenirLTStd-Book.otf</key>
+		<data>
+		d0nJChpcX+qBz/hYYN65gx5qYgY=
+		</data>
+		<key>AvenirLTStd-BookOblique.otf</key>
+		<data>
+		kDh7zU47PgN7III/C7gU4lm0yNs=
+		</data>
+		<key>AvenirLTStd-Heavy.otf</key>
+		<data>
+		GhjrquOL8h13e6b82Mum/L8mxhU=
+		</data>
+		<key>AvenirLTStd-HeavyOblique.otf</key>
+		<data>
+		ArMxvYMYWuisP38X9YA3VQvV4gA=
+		</data>
+		<key>AvenirLTStd-Light.otf</key>
+		<data>
+		KtUHv5vAsBJH89B0JsHrXp48NeM=
+		</data>
+		<key>AvenirLTStd-LightOblique.otf</key>
+		<data>
+		EaMOXV7DD567FwAM+2N5Sg02WoM=
+		</data>
+		<key>AvenirLTStd-Medium.otf</key>
+		<data>
+		lpi6NkY9NSGdGf6BGuiNhdR8C80=
+		</data>
+		<key>AvenirLTStd-MediumOblique.otf</key>
+		<data>
+		vr9E/j6RcoOsmAtVctApLVP5DtQ=
+		</data>
+		<key>AvenirLTStd-Oblique.otf</key>
+		<data>
+		BektnxLDZkkKq0Q8mZfY4QuFpIU=
+		</data>
+		<key>AvenirLTStd-Roman.otf</key>
+		<data>
+		+3ki4BHWHWknE+XxkwZDTLzrNg4=
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		70B5/TR8XsOmIG3RxUai+Y8dNiA=
+		GzjLQlwtcUx9bRW5SdAGmZC1HHs=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
-		yJZfVimG5QM4DhWBeZuuaB49xk8=
+		3uiIHQNeYRGyg2kuM9oWHsgs7LQ=
 		</data>
 		<key>Headers/VisualIntuition.h</key>
 		<data>
@@ -22,7 +70,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+3GBz3TTaSSnU1WDfmqFvZ5sJFU=
+		AHuee79KSdB7crEqgKWWOhaoykw=
+		</data>
+		<key>LICENSE</key>
+		<data>
+		uykH4m+p1BZq+Aqr7YZSqnRqr3M=
 		</data>
 		<key>Line.fragsh</key>
 		<data>
@@ -31,6 +83,14 @@
 		<key>Line.vertsh</key>
 		<data>
 		cu6ugMNdtKfsx7o4q5hYM8r1E4Q=
+		</data>
+		<key>MandtVRCell.nib</key>
+		<data>
+		gF37pNjqrVDjB19SxsCCbj3CGwE=
+		</data>
+		<key>MandtVRView.nib</key>
+		<data>
+		GccxxK4G5UMfVSGNpq2ZvwywnUo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -48,9 +108,17 @@
 		<data>
 		eJ2DYQaPthywShj8Osqysh858m0=
 		</data>
+		<key>VideoPlaybackEAGLView.nib</key>
+		<data>
+		1A89oJJo8BuNt9Nl48KV2BJFCXg=
+		</data>
+		<key>WonderWomanVC.nib</key>
+		<data>
+		Ocmc8sAqPlQDJNs2vmuFAl6IvjM=
+		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		WsvPgSNvG7UkxT8We/SSrRv36CA=
+		uq1EwLHSXt4yfN6NMcxXaI0l86c=
 		</data>
 		<key>frame-markers-transparent.zip</key>
 		<data>
@@ -71,33 +139,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jeeLnBk4clRkWwtQtwk1g3rh/Xk=
+			sLxmG7lY1coBtPxAgEE68437Oe0=
 			</data>
 			<key>hash2</key>
 			<data>
-			RZvPL4JbS52skfO857RY5gHSRDnvZo0fnLK6I7AHYTw=
+			XFqKrlbkABCy+NLHfoF7oKhqn0xHbwpI9V8FdQXGjpM=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Black.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3XHRCycKKjSImqu0CmUbkNDKvjw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ub8BB5nd4o9t/FAmydBfmzhtG6KJ4TlFoElenbeKVtU=
+			</data>
+		</dict>
+		<key>AvenirLTStd-BlackOblique.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z8ftBIOTgdQh0LZEj4uV42UuaA4=
+			</data>
+			<key>hash2</key>
+			<data>
+			NXwI5fMzNwKaL1Zh9xu8bDpRurvsKdaWQM/OqaKcbMA=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Book.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d0nJChpcX+qBz/hYYN65gx5qYgY=
+			</data>
+			<key>hash2</key>
+			<data>
+			a000VkH9wbxRYjZcZoNa6DGy0zB9YU5CJszSt9wvD0o=
+			</data>
+		</dict>
+		<key>AvenirLTStd-BookOblique.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kDh7zU47PgN7III/C7gU4lm0yNs=
+			</data>
+			<key>hash2</key>
+			<data>
+			ga1eNIZXU0FvZC4JPcj4/vPL8dghpjhWlZq+FvEwj64=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Heavy.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GhjrquOL8h13e6b82Mum/L8mxhU=
+			</data>
+			<key>hash2</key>
+			<data>
+			kGPOv1zcj+UC2GZKkGHN6n00dAgFs52lHyhFoKeN0jw=
+			</data>
+		</dict>
+		<key>AvenirLTStd-HeavyOblique.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ArMxvYMYWuisP38X9YA3VQvV4gA=
+			</data>
+			<key>hash2</key>
+			<data>
+			rj7O/EUTIhSI99qvm8Q5WV5QFpfEcJrb9PUt/F9qlGo=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Light.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KtUHv5vAsBJH89B0JsHrXp48NeM=
+			</data>
+			<key>hash2</key>
+			<data>
+			GUqVWZFV+5PDSoub9LNihoxClKSU0KGqaGp2N1sOxkQ=
+			</data>
+		</dict>
+		<key>AvenirLTStd-LightOblique.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EaMOXV7DD567FwAM+2N5Sg02WoM=
+			</data>
+			<key>hash2</key>
+			<data>
+			tdFBjv6UTDJ/+xCS2XbmtW5XDmD0+ewR/q1CTuvVnAM=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Medium.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lpi6NkY9NSGdGf6BGuiNhdR8C80=
+			</data>
+			<key>hash2</key>
+			<data>
+			FANIXFuMZR241ismOgkvgftyNpvsQOBmn2cV8TmjO6s=
+			</data>
+		</dict>
+		<key>AvenirLTStd-MediumOblique.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vr9E/j6RcoOsmAtVctApLVP5DtQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3aWp7rZahZ1oKdco468VasqkbhBKkQ6/AEv41co6AOM=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Oblique.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BektnxLDZkkKq0Q8mZfY4QuFpIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			9kSz7cmFFPbv5tcfDmBYqFV+mGYr9788NeicZv2ufZA=
+			</data>
+		</dict>
+		<key>AvenirLTStd-Roman.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+3ki4BHWHWknE+XxkwZDTLzrNg4=
+			</data>
+			<key>hash2</key>
+			<data>
+			px5KudglquOWD2eOQx0vCjHeCqQG988YuwpxGWMnkR4=
 			</data>
 		</dict>
 		<key>CTAView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			70B5/TR8XsOmIG3RxUai+Y8dNiA=
+			GzjLQlwtcUx9bRW5SdAGmZC1HHs=
 			</data>
 			<key>hash2</key>
 			<data>
-			rdywf8K+sT7MOP/bJaquATDKiTB0NHMZLxG+bhV3SqM=
+			Yter/pEAzOKUuXN1x8RVxrLQeyRSjB9wzHnWyCHKqnw=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yJZfVimG5QM4DhWBeZuuaB49xk8=
+			3uiIHQNeYRGyg2kuM9oWHsgs7LQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aSaeKdHhnH/ymgzF5IT8KlMJMMwJZfmfhp3LtKxkUBI=
+			rmWElRt+fvaWaQTdf8lTvs6hSYJpfxu3vS3GplEPJIE=
 			</data>
 		</dict>
 		<key>Headers/VisualIntuition.h</key>
@@ -109,6 +309,17 @@
 			<key>hash2</key>
 			<data>
 			HTdDgSwDalztBAyFdMCiCCpWMC3YEJ4GuTgZJjoSNkE=
+			</data>
+		</dict>
+		<key>LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uykH4m+p1BZq+Aqr7YZSqnRqr3M=
+			</data>
+			<key>hash2</key>
+			<data>
+			TY6jMvJB5s3NcUsVjXbG8rCnScCkZ4ECSmOc/d0zHlI=
 			</data>
 		</dict>
 		<key>Line.fragsh</key>
@@ -131,6 +342,28 @@
 			<key>hash2</key>
 			<data>
 			opnp0ekM/ANBlwJRHZ6G6xBSIGx7UFodDpXu/KzwGH4=
+			</data>
+		</dict>
+		<key>MandtVRCell.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gF37pNjqrVDjB19SxsCCbj3CGwE=
+			</data>
+			<key>hash2</key>
+			<data>
+			P2DlD5SQSjeGJDnV6Mki9S8KpBaeR7SI4oDwIcKs7Rc=
+			</data>
+		</dict>
+		<key>MandtVRView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GccxxK4G5UMfVSGNpq2ZvwywnUo=
+			</data>
+			<key>hash2</key>
+			<data>
+			EaPh5tKdeInEugrGzCfD64TCLOcifEh3jStm8KATUIo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -177,15 +410,37 @@
 			iLhdHQItdALqfBdRDIAPsli1MIKs6bdCcEjtF/yvRcc=
 			</data>
 		</dict>
+		<key>VideoPlaybackEAGLView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1A89oJJo8BuNt9Nl48KV2BJFCXg=
+			</data>
+			<key>hash2</key>
+			<data>
+			uyq8REr9+iGlQrlvX68zp3+PDedmbtHwGRzqSWta1b0=
+			</data>
+		</dict>
+		<key>WonderWomanVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ocmc8sAqPlQDJNs2vmuFAl6IvjM=
+			</data>
+			<key>hash2</key>
+			<data>
+			eryx1BPjApnGmDv7xvtpfW0tugCA2ARu7D5L4NJBGtM=
+			</data>
+		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WsvPgSNvG7UkxT8We/SSrRv36CA=
+			uq1EwLHSXt4yfN6NMcxXaI0l86c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Azmc+64a/xHymoeJPvBoZMJ297naI70lKrlgLjIYRJs=
+			ou2v3tXviV2jyRWLftDTNeCT0Ftd+1iLCp+xSliAA8Y=
 			</data>
 		</dict>
 		<key>frame-markers-transparent.zip</key>

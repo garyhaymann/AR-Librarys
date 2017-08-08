@@ -21,8 +21,8 @@ typedef void (^ScannerTitle)(NSString*, NSString*);
 @interface NRCameraViewController: UINavigationController
 
 @property (nonatomic, copy) TargetScanned targetScannedBlock;
-    @property (nonatomic, copy) CTAButtonTapped ctaButtonTappedBlock;
-    @property (nonatomic, copy) ScannerTitle scannerTitleBlock;
+@property (nonatomic, copy) CTAButtonTapped ctaButtonTappedBlock;
+@property (nonatomic, copy) ScannerTitle scannerTitleBlock;
 
 
 + (instancetype)instance:(TrackerFound)callback withShareBlock:(ShareBlock)shareBlock;

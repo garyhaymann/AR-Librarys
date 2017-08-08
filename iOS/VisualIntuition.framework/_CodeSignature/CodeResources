@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		sLxmG7lY1coBtPxAgEE68437Oe0=
+		i7EhXkkaZ6JmplMnZ5soy6cKLj4=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		GzjLQlwtcUx9bRW5SdAGmZC1HHs=
+		QqHnWJtaCcR650xJ+xxJr3vRU68=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
-		3uiIHQNeYRGyg2kuM9oWHsgs7LQ=
+		HcJxPOT4on5MuotRcn3Ar/08ELc=
 		</data>
 		<key>Headers/VisualIntuition.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		gF37pNjqrVDjB19SxsCCbj3CGwE=
+		sNcI1RuVMizg5yfltQG+BXJnWtY=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		GccxxK4G5UMfVSGNpq2ZvwywnUo=
+		E3eoOOEjWVmT1dy6xMpvOGX3m18=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,15 +110,15 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		1A89oJJo8BuNt9Nl48KV2BJFCXg=
+		puDEVFSZ11vEumPR3akKKCi+huM=
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		Ocmc8sAqPlQDJNs2vmuFAl6IvjM=
+		YbFEmoKHBFBFu2aT9b7q5FPKkG4=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		uq1EwLHSXt4yfN6NMcxXaI0l86c=
+		xbSFRb9lWD2tzLO4cfjxZYt3X1g=
 		</data>
 		<key>frame-markers-transparent.zip</key>
 		<data>
@@ -132,6 +132,10 @@
 		<data>
 		ifndcr5Yf7B8hzXSTh1JUapWQxk=
 		</data>
+		<key>version.txt</key>
+		<data>
+		nLfSFEpCKPzHOtjY9ZQVp4feW8o=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -139,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sLxmG7lY1coBtPxAgEE68437Oe0=
+			i7EhXkkaZ6JmplMnZ5soy6cKLj4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XFqKrlbkABCy+NLHfoF7oKhqn0xHbwpI9V8FdQXGjpM=
+			fCSXf8DDJplPJR/dkqu3oINLNS04aG18RQmF8H/lh1U=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -282,22 +286,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GzjLQlwtcUx9bRW5SdAGmZC1HHs=
+			QqHnWJtaCcR650xJ+xxJr3vRU68=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yter/pEAzOKUuXN1x8RVxrLQeyRSjB9wzHnWyCHKqnw=
+			5T8kg3PXgIXVP2bVJ+NXYBOG7IT3SRty5vPxCXK1Jes=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3uiIHQNeYRGyg2kuM9oWHsgs7LQ=
+			HcJxPOT4on5MuotRcn3Ar/08ELc=
 			</data>
 			<key>hash2</key>
 			<data>
-			rmWElRt+fvaWaQTdf8lTvs6hSYJpfxu3vS3GplEPJIE=
+			lAiD20zFCZT+M7v4iY1UjITrFHRDZt17f81r0D/u5L8=
 			</data>
 		</dict>
 		<key>Headers/VisualIntuition.h</key>
@@ -348,22 +352,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gF37pNjqrVDjB19SxsCCbj3CGwE=
+			sNcI1RuVMizg5yfltQG+BXJnWtY=
 			</data>
 			<key>hash2</key>
 			<data>
-			P2DlD5SQSjeGJDnV6Mki9S8KpBaeR7SI4oDwIcKs7Rc=
+			asxvEIc1hLeK/OBtqOR89Um5DYbX81HJ+y1OeFg7hS0=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GccxxK4G5UMfVSGNpq2ZvwywnUo=
+			E3eoOOEjWVmT1dy6xMpvOGX3m18=
 			</data>
 			<key>hash2</key>
 			<data>
-			EaPh5tKdeInEugrGzCfD64TCLOcifEh3jStm8KATUIo=
+			xe5F0Gg+DVTyH/oIsm3PuguZ4reO154cJcjoeKznewU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -414,33 +418,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1A89oJJo8BuNt9Nl48KV2BJFCXg=
+			puDEVFSZ11vEumPR3akKKCi+huM=
 			</data>
 			<key>hash2</key>
 			<data>
-			uyq8REr9+iGlQrlvX68zp3+PDedmbtHwGRzqSWta1b0=
+			JXpGvv7B1wmbkB63Us+IVx1Nt+jrScPZW/oc2qrs6jM=
 			</data>
 		</dict>
 		<key>WonderWomanVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ocmc8sAqPlQDJNs2vmuFAl6IvjM=
+			YbFEmoKHBFBFu2aT9b7q5FPKkG4=
 			</data>
 			<key>hash2</key>
 			<data>
-			eryx1BPjApnGmDv7xvtpfW0tugCA2ARu7D5L4NJBGtM=
+			zBr2V6RW8obeYpZERwHrtxZJq8pe+VK2tM6MSgycrr8=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uq1EwLHSXt4yfN6NMcxXaI0l86c=
+			xbSFRb9lWD2tzLO4cfjxZYt3X1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			ou2v3tXviV2jyRWLftDTNeCT0Ftd+1iLCp+xSliAA8Y=
+			F5gR+F4hSD9uIi4wAUA5mmW/M9o39ecgGprrp9SO/Fo=
 			</data>
 		</dict>
 		<key>frame-markers-transparent.zip</key>
@@ -474,6 +478,17 @@
 			<key>hash2</key>
 			<data>
 			qCtc41Jtfm7U0zJYO47+xdUR++UE2Naf1BCYX6jnPCg=
+			</data>
+		</dict>
+		<key>version.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nLfSFEpCKPzHOtjY9ZQVp4feW8o=
+			</data>
+			<key>hash2</key>
+			<data>
+			u+fGQijtf3K93HNtCKSnw2Nx0DHzGI7951rxbcySNTA=
 			</data>
 		</dict>
 	</dict>

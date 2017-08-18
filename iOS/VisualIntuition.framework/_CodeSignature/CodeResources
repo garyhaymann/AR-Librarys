@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		WGaoShvt66tVFxgUPmqfOLZdheo=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		i7EhXkkaZ6JmplMnZ5soy6cKLj4=
+		CN/OPE6SDEJ/iWAzdPqxvGYfAIY=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		QqHnWJtaCcR650xJ+xxJr3vRU68=
+		NHLgMQsb0PKZc3H/nhXvg4rWQUQ=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
@@ -86,11 +90,11 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		sNcI1RuVMizg5yfltQG+BXJnWtY=
+		1JWubfJCOg4X59jkrLs5+9UpAAA=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		E3eoOOEjWVmT1dy6xMpvOGX3m18=
+		BxLBBFmgAOVLisU9m7YVOhdxUrs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,19 +114,15 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		puDEVFSZ11vEumPR3akKKCi+huM=
+		GkU6jfFXjAJ/BMat1ohnDkTaNqU=
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		YbFEmoKHBFBFu2aT9b7q5FPKkG4=
+		wKKhnFUS9xyhNBGMCxdAYhQlPxU=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		xbSFRb9lWD2tzLO4cfjxZYt3X1g=
-		</data>
-		<key>frame-markers-transparent.zip</key>
-		<data>
-		eYIA8ltpel+9/YFFkEFyVgj5Wc4=
+		o2DZzBVRj0mCU7GYL7g/TTYWF1M=
 		</data>
 		<key>license_3rdpartynotice.txt</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>readme.txt</key>
 		<data>
-		ifndcr5Yf7B8hzXSTh1JUapWQxk=
+		0sNfb/3HPF3i8EMku7u5xSm27UE=
 		</data>
 		<key>version.txt</key>
 		<data>
-		nLfSFEpCKPzHOtjY9ZQVp4feW8o=
+		toXxXjcVDI02QKDVs1UzF/DuKTY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i7EhXkkaZ6JmplMnZ5soy6cKLj4=
+			CN/OPE6SDEJ/iWAzdPqxvGYfAIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fCSXf8DDJplPJR/dkqu3oINLNS04aG18RQmF8H/lh1U=
+			IZUUuQMtBSiQpJ0LYoVFPTFA5g3jZ+vqQB3AHkUIsAo=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -286,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QqHnWJtaCcR650xJ+xxJr3vRU68=
+			NHLgMQsb0PKZc3H/nhXvg4rWQUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			5T8kg3PXgIXVP2bVJ+NXYBOG7IT3SRty5vPxCXK1Jes=
+			eL4NCC1MxEHrOmXIHPoZOhLkikqiAhZmhrWcqV+N0/8=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
@@ -352,22 +352,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sNcI1RuVMizg5yfltQG+BXJnWtY=
+			1JWubfJCOg4X59jkrLs5+9UpAAA=
 			</data>
 			<key>hash2</key>
 			<data>
-			asxvEIc1hLeK/OBtqOR89Um5DYbX81HJ+y1OeFg7hS0=
+			1mW+Q/D44rdcWxqS0YPFs5cFsoXSK6x6OF2ox/5xvDM=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E3eoOOEjWVmT1dy6xMpvOGX3m18=
+			BxLBBFmgAOVLisU9m7YVOhdxUrs=
 			</data>
 			<key>hash2</key>
 			<data>
-			xe5F0Gg+DVTyH/oIsm3PuguZ4reO154cJcjoeKznewU=
+			NLXLOAgXf9BKu5zqFaQbD7x0VD6Zw3laogLnV+rqOtw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -418,44 +418,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			puDEVFSZ11vEumPR3akKKCi+huM=
+			GkU6jfFXjAJ/BMat1ohnDkTaNqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			JXpGvv7B1wmbkB63Us+IVx1Nt+jrScPZW/oc2qrs6jM=
+			wuJpRmbqcy54jIldIJffPwtXew6Nbs0fq+ah204oY2Q=
 			</data>
 		</dict>
 		<key>WonderWomanVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YbFEmoKHBFBFu2aT9b7q5FPKkG4=
+			wKKhnFUS9xyhNBGMCxdAYhQlPxU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zBr2V6RW8obeYpZERwHrtxZJq8pe+VK2tM6MSgycrr8=
+			d9MgbSN5iM9cuGImJ1UNbJoIhdljoPWQ1QQq+U1gQyo=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xbSFRb9lWD2tzLO4cfjxZYt3X1g=
+			o2DZzBVRj0mCU7GYL7g/TTYWF1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			F5gR+F4hSD9uIi4wAUA5mmW/M9o39ecgGprrp9SO/Fo=
-			</data>
-		</dict>
-		<key>frame-markers-transparent.zip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eYIA8ltpel+9/YFFkEFyVgj5Wc4=
-			</data>
-			<key>hash2</key>
-			<data>
-			clHMDEx1Te9yawVGvw0Ib1oK3HsHcLaEumY7gzELWGo=
+			iZbtPX7307ViJd7DR2yrJDMABjn2An5cA7/VbB7/i6s=
 			</data>
 		</dict>
 		<key>license_3rdpartynotice.txt</key>
@@ -473,22 +462,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ifndcr5Yf7B8hzXSTh1JUapWQxk=
+			0sNfb/3HPF3i8EMku7u5xSm27UE=
 			</data>
 			<key>hash2</key>
 			<data>
-			qCtc41Jtfm7U0zJYO47+xdUR++UE2Naf1BCYX6jnPCg=
+			vCoiFm7P5R9M4uhcY5Quohntfc3vT2CxzoGYwBGkko4=
 			</data>
 		</dict>
 		<key>version.txt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nLfSFEpCKPzHOtjY9ZQVp4feW8o=
+			toXxXjcVDI02QKDVs1UzF/DuKTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			u+fGQijtf3K93HNtCKSnw2Nx0DHzGI7951rxbcySNTA=
+			qNjqbu71shv1T9ALqPfp8qI0GFOtv8mhMFlGdUiAREY=
 			</data>
 		</dict>
 	</dict>

@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		CN/OPE6SDEJ/iWAzdPqxvGYfAIY=
+		q6XNVXOfqOHkufWEMOO4rMbpU74=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		NHLgMQsb0PKZc3H/nhXvg4rWQUQ=
+		+sS0+nSvmI7ipBZKm5XiUL0VgaM=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		1JWubfJCOg4X59jkrLs5+9UpAAA=
+		6t1waCLi8EcUComRNvHg+cFZFw8=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		BxLBBFmgAOVLisU9m7YVOhdxUrs=
+		t9ROAe829xUlusEyQgA+EPcPwzY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,15 +114,15 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		GkU6jfFXjAJ/BMat1ohnDkTaNqU=
+		8b/LT+r5VECB0QbPmz3O2sTUzZI=
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		wKKhnFUS9xyhNBGMCxdAYhQlPxU=
+		EtHcKrFfYK5sxDQ436U+6/N3Zbw=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		o2DZzBVRj0mCU7GYL7g/TTYWF1M=
+		4x7nTV+gw+BA94HV0+4KMTZPZR0=
 		</data>
 		<key>license_3rdpartynotice.txt</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>readme.txt</key>
 		<data>
-		0sNfb/3HPF3i8EMku7u5xSm27UE=
+		ifndcr5Yf7B8hzXSTh1JUapWQxk=
 		</data>
 		<key>version.txt</key>
 		<data>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CN/OPE6SDEJ/iWAzdPqxvGYfAIY=
+			q6XNVXOfqOHkufWEMOO4rMbpU74=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZUUuQMtBSiQpJ0LYoVFPTFA5g3jZ+vqQB3AHkUIsAo=
+			8vmXioc7nOvVouIFttoXIrmVnGEDmZSRvh9vA5GV7ng=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -286,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NHLgMQsb0PKZc3H/nhXvg4rWQUQ=
+			+sS0+nSvmI7ipBZKm5XiUL0VgaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			eL4NCC1MxEHrOmXIHPoZOhLkikqiAhZmhrWcqV+N0/8=
+			1ytiVQf0Kas0fazYzKzri088kfFg3DHekSDjKpWaczo=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
@@ -352,22 +352,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1JWubfJCOg4X59jkrLs5+9UpAAA=
+			6t1waCLi8EcUComRNvHg+cFZFw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1mW+Q/D44rdcWxqS0YPFs5cFsoXSK6x6OF2ox/5xvDM=
+			EH6JoS9KpqTR6i6zUsTV0TjOGlXdhesnDA6wRo+F4ds=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BxLBBFmgAOVLisU9m7YVOhdxUrs=
+			t9ROAe829xUlusEyQgA+EPcPwzY=
 			</data>
 			<key>hash2</key>
 			<data>
-			NLXLOAgXf9BKu5zqFaQbD7x0VD6Zw3laogLnV+rqOtw=
+			eeSrk057Et8+HxzeG9uuLNRwBezQhgPo1RrgiDlSSXE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -418,33 +418,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GkU6jfFXjAJ/BMat1ohnDkTaNqU=
+			8b/LT+r5VECB0QbPmz3O2sTUzZI=
 			</data>
 			<key>hash2</key>
 			<data>
-			wuJpRmbqcy54jIldIJffPwtXew6Nbs0fq+ah204oY2Q=
+			zTpYgUyqDDb2C+yCSwpkbJ30g8ltKPBagk9Ciz3csFg=
 			</data>
 		</dict>
 		<key>WonderWomanVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wKKhnFUS9xyhNBGMCxdAYhQlPxU=
+			EtHcKrFfYK5sxDQ436U+6/N3Zbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			d9MgbSN5iM9cuGImJ1UNbJoIhdljoPWQ1QQq+U1gQyo=
+			kokhuvG6nnQXaR3t1pKrzIUQmT+a0D1lnIGTn63xq+8=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o2DZzBVRj0mCU7GYL7g/TTYWF1M=
+			4x7nTV+gw+BA94HV0+4KMTZPZR0=
 			</data>
 			<key>hash2</key>
 			<data>
-			iZbtPX7307ViJd7DR2yrJDMABjn2An5cA7/VbB7/i6s=
+			8ULTwmoPhqIamH8YIt5peiGNb0RMTRnI7na3Npd1Piw=
 			</data>
 		</dict>
 		<key>license_3rdpartynotice.txt</key>
@@ -462,11 +462,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0sNfb/3HPF3i8EMku7u5xSm27UE=
+			ifndcr5Yf7B8hzXSTh1JUapWQxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			vCoiFm7P5R9M4uhcY5Quohntfc3vT2CxzoGYwBGkko4=
+			qCtc41Jtfm7U0zJYO47+xdUR++UE2Naf1BCYX6jnPCg=
 			</data>
 		</dict>
 		<key>version.txt</key>

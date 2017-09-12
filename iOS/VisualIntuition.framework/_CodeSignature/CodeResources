@@ -4,13 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		WGaoShvt66tVFxgUPmqfOLZdheo=
-		</data>
 		<key>Assets.car</key>
 		<data>
-		obguKc0kApq0PxoWN4c40DD115k=
+		rVPffRVeTgmqmMRWUWgjYxtMBUI=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -62,7 +58,7 @@
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		BRSERrZrmdhgBNpviFQ8zwRmfv0=
+		22pPWiwYjWs36FaahIn2zFo7QRo=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
@@ -90,15 +86,19 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		WolxMaGJEuM5LiE/RjVg7vyCjwA=
+		vPGyaTIoEsT/rwrOEBemvU62aNU=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		ozZTK/VO1+lvOKcJdzAsXge+aoQ=
+		jW7pbZMH2ABNnDP+UAbKRuqfNIU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		hPDILPZsRVkn3jxMX9kkbJKOCR0=
+		</data>
+		<key>ShareView.nib</key>
+		<data>
+		Fp4+MWoHle9PlZ49dwuWKcjgRws=
 		</data>
 		<key>Simple.fragsh</key>
 		<data>
@@ -114,15 +114,15 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		qXYvZpnhIGvcydohtPST8I3feoo=
+		lSVkqPBBTWD4N3Isfr+0wztcLhc=
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		1hTZH2Y3JSZMQDRn0latdht/rJo=
+		8LC+uUVNlzgVqMEpLYaxU/AyyfI=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		pQ41F9jPQzzs3Y6Yr6cHlL2rveI=
+		31nzkavbxl/WdqsTgzd5BdbfehA=
 		</data>
 		<key>license_3rdpartynotice.txt</key>
 		<data>
@@ -132,10 +132,6 @@
 		<data>
 		ifndcr5Yf7B8hzXSTh1JUapWQxk=
 		</data>
-		<key>version.txt</key>
-		<data>
-		U197/4IgkbiavWFaiTn82liayu4=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -143,11 +139,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			obguKc0kApq0PxoWN4c40DD115k=
+			rVPffRVeTgmqmMRWUWgjYxtMBUI=
 			</data>
 			<key>hash2</key>
 			<data>
-			kjLHqE8qqQeRhBat2dMEtK2rNrkpoHE7iM+NZbn0eq8=
+			ZSZ3SqC4BXgTRjGOrl9bvtFI4JXCz8ogZtJdhxkAacc=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -286,11 +282,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BRSERrZrmdhgBNpviFQ8zwRmfv0=
+			22pPWiwYjWs36FaahIn2zFo7QRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			xTG226M4q1YylnzzgSVy2gVe/fyTMiOlncnbSs12qC8=
+			LbBJHXvTJs0U868Tv5g3/RAWeyIHefHgkBmDNjP+6v8=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
@@ -352,22 +348,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WolxMaGJEuM5LiE/RjVg7vyCjwA=
+			vPGyaTIoEsT/rwrOEBemvU62aNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ssdK/rY817rVd7pPj2O6y7gimsPiEviNxA+4sa/5zNw=
+			jGv5SEJDdFfESFw1cfkxJOMq6BYsz0dmSqDM13NChlA=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozZTK/VO1+lvOKcJdzAsXge+aoQ=
+			jW7pbZMH2ABNnDP+UAbKRuqfNIU=
 			</data>
 			<key>hash2</key>
 			<data>
-			yKgkx5sCVCtJMweMK6K3rze+qvbtO1G/M8AZSrzHRd8=
+			zNC1vfAO8XVEAHxBh//JqjfBPqZwT3pjFEF+01GaZ18=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -379,6 +375,17 @@
 			<key>hash2</key>
 			<data>
 			E629s4PwSXboHDxtHeMztB716H5PlwxMuhnpo2kmw1s=
+			</data>
+		</dict>
+		<key>ShareView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Fp4+MWoHle9PlZ49dwuWKcjgRws=
+			</data>
+			<key>hash2</key>
+			<data>
+			1nwD73nYCPxow7xfwqpCcEiRVbCA1ZtPkFsQqwT40Zg=
 			</data>
 		</dict>
 		<key>Simple.fragsh</key>
@@ -418,33 +425,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qXYvZpnhIGvcydohtPST8I3feoo=
+			lSVkqPBBTWD4N3Isfr+0wztcLhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			26Nzzo+qpM349oq/z/vuTW1g4aS4cDaOXHkTHzQjs9U=
+			rKmS6TdNNRoRrq8NTL4pHOpDLWW2jefXLTHtj9ZyeTo=
 			</data>
 		</dict>
 		<key>WonderWomanVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1hTZH2Y3JSZMQDRn0latdht/rJo=
+			8LC+uUVNlzgVqMEpLYaxU/AyyfI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ftt0DmjYLeCLCJAzZZ8K/0XoyDll7izMxcxa7B1wsoY=
+			DbWBUC+uojPIDlFs3rO4PIZErsIhX2X82ORZthKbAWQ=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pQ41F9jPQzzs3Y6Yr6cHlL2rveI=
+			31nzkavbxl/WdqsTgzd5BdbfehA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ozSRgF8WsdxDC3ixVWC8Wt8xlA7U0XGCLoC5Ib6MNBQ=
+			3+eJE95jz8dmfRuipah+eBtuwf8Q67Kh1jpTLLgTz/w=
 			</data>
 		</dict>
 		<key>license_3rdpartynotice.txt</key>
@@ -467,17 +474,6 @@
 			<key>hash2</key>
 			<data>
 			qCtc41Jtfm7U0zJYO47+xdUR++UE2Naf1BCYX6jnPCg=
-			</data>
-		</dict>
-		<key>version.txt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U197/4IgkbiavWFaiTn82liayu4=
-			</data>
-			<key>hash2</key>
-			<data>
-			d3g9W52f5N14rDPhma2AtxqElt5fqSOhQ+eWT3bnAVc=
 			</data>
 		</dict>
 	</dict>

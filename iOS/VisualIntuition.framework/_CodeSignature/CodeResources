@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		aIeXBf78aMecAIw9vDmq85yRzWQ=
+		GbpXFz2wJSrTZXrmXDBMlRm2URc=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		8CiFjjtAKTE/m6u/wQ4pnZAJuzM=
+		06m6XqieQ6A+qekBgMawRiyI7Dc=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		7TzUuXDevRmwOAszq/V5Pl4PxWI=
+		oAhB01PIyJG1q5W2CMKKE3VAVOQ=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		DDkxHX53QOQorzvmlhw28YrniWM=
+		oPEplVhrC0EW5Ca0uI5Yn6jJShI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ShareView.nib</key>
 		<data>
-		ROLphb1kumPEE8P+vRFtXHeKjGc=
+		q5eIELRexpsB46Bx24ScoVnmYA0=
 		</data>
 		<key>Simple.fragsh</key>
 		<data>
@@ -114,15 +114,15 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		lwmk/zpW0tfc5mN7fsAtp4m+oUo=
+		wJ4wwjXSQbwinFc1he9ZJ4k3wlw=
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		Lo0J28AaT2qtHpHujo7XlJyhYqk=
+		B5udC/6CXz+Fxc8vEH0O+IuWVao=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		HfMNMM3pbcHE6Vt8VqtzMooESDM=
+		JC5Hnwy6AF1312icEvVYL/vz9Wc=
 		</data>
 		<key>license_3rdpartynotice.txt</key>
 		<data>
@@ -132,6 +132,10 @@
 		<data>
 		ifndcr5Yf7B8hzXSTh1JUapWQxk=
 		</data>
+		<key>version.txt</key>
+		<data>
+		kJ6BRZTgFAvEdXVspD60tikf/Sw=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -139,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aIeXBf78aMecAIw9vDmq85yRzWQ=
+			GbpXFz2wJSrTZXrmXDBMlRm2URc=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Wd+aw6/u0T/9LnuH3XfxBXaBVtOQiNbJehJQG7enBs=
+			/wA9ohE7Zd5FyZ8qV46x5TNy8dXQFY8SexMhGBe82ac=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -282,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8CiFjjtAKTE/m6u/wQ4pnZAJuzM=
+			06m6XqieQ6A+qekBgMawRiyI7Dc=
 			</data>
 			<key>hash2</key>
 			<data>
-			of7gffOF9n3hR0YUO3U4zgbkXB/3WPjaMzZdi8sTG9E=
+			lYrVgFvKzP5jQ9EeZYHmuO8Joc3qdTjX0ocRUGwIs14=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
@@ -348,22 +352,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7TzUuXDevRmwOAszq/V5Pl4PxWI=
+			oAhB01PIyJG1q5W2CMKKE3VAVOQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pdnZn9E2wfPzOOIpNB3ztPF1wTGVZjhpY+vNVl8obOM=
+			bqm2IY13YnmDCfKHTkECrk43dbzJLWzmvu/tvIB+OKI=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DDkxHX53QOQorzvmlhw28YrniWM=
+			oPEplVhrC0EW5Ca0uI5Yn6jJShI=
 			</data>
 			<key>hash2</key>
 			<data>
-			NyE1a4KZrUliqxZvb3nVU/BblwUuSanlnskIj46UeQQ=
+			4sUnodTEPdrdgySK4e6iMNEmN7yjUmgNWB6cUapqqoo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -381,11 +385,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ROLphb1kumPEE8P+vRFtXHeKjGc=
+			q5eIELRexpsB46Bx24ScoVnmYA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			3GMsUYKu4cehWYhI5CmLlIE40h3VutDzSc7PF0Js1BM=
+			v4/XHZgK4UzU+lkpzChdXpnkSPq0gUdr1VcCqd2WOqE=
 			</data>
 		</dict>
 		<key>Simple.fragsh</key>
@@ -425,33 +429,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lwmk/zpW0tfc5mN7fsAtp4m+oUo=
+			wJ4wwjXSQbwinFc1he9ZJ4k3wlw=
 			</data>
 			<key>hash2</key>
 			<data>
-			af7XKXnSgXaQ6C1FwhBLf2D8PX8h35l5f9bYe+HictA=
+			jlEzM6m5w+NU5eNzoneheatZQkFMp/74FEBgbV/DuzA=
 			</data>
 		</dict>
 		<key>WonderWomanVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lo0J28AaT2qtHpHujo7XlJyhYqk=
+			B5udC/6CXz+Fxc8vEH0O+IuWVao=
 			</data>
 			<key>hash2</key>
 			<data>
-			VZs34kdMzaNO3vrZ36isDB0Q8hyNFF0GWB9a6liy9qU=
+			rkVY1iYDwpTh9RZx4tHOdEgPzeFRFBDuLK6F7+JEXkw=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HfMNMM3pbcHE6Vt8VqtzMooESDM=
+			JC5Hnwy6AF1312icEvVYL/vz9Wc=
 			</data>
 			<key>hash2</key>
 			<data>
-			dt7EgjcewVKHuxjpV+Zjk7kyi+ZzfX+/7OGGYtuFULs=
+			s3eRZ1+sNpeMdCxK5TS650vUps38xZM6KyrCCm/1u10=
 			</data>
 		</dict>
 		<key>license_3rdpartynotice.txt</key>
@@ -474,6 +478,17 @@
 			<key>hash2</key>
 			<data>
 			qCtc41Jtfm7U0zJYO47+xdUR++UE2Naf1BCYX6jnPCg=
+			</data>
+		</dict>
+		<key>version.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kJ6BRZTgFAvEdXVspD60tikf/Sw=
+			</data>
+			<key>hash2</key>
+			<data>
+			K4KUgjZQ9zRmAFUojn7yp9IHENgrdVFcjfcJAonlA3Y=
 			</data>
 		</dict>
 	</dict>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		GbpXFz2wJSrTZXrmXDBMlRm2URc=
+		0NjcFO0IMWBvWX6QaYU6F3hjGlc=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -56,9 +56,17 @@
 		<data>
 		+3ki4BHWHWknE+XxkwZDTLzrNg4=
 		</data>
+		<key>Background.fragsh</key>
+		<data>
+		IeNayTgEURD19toRH57m9q2B+Nw=
+		</data>
+		<key>Background.vertsh</key>
+		<data>
+		AauD/LcjS5LBxUEwZaa1lBTmthQ=
+		</data>
 		<key>CTAView.nib</key>
 		<data>
-		06m6XqieQ6A+qekBgMawRiyI7Dc=
+		z9JQFItrOLCD/i8wQ08ZCFdZoUQ=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
@@ -70,7 +78,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AHuee79KSdB7crEqgKWWOhaoykw=
+		1ZXX/hRfcorkJ7xrGBP5LxjRn/E=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -86,11 +94,11 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		oAhB01PIyJG1q5W2CMKKE3VAVOQ=
+		JwYFyqSP02BPC8q7VxaaRd55Kig=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		oPEplVhrC0EW5Ca0uI5Yn6jJShI=
+		+0oQw+cwojFl27c2zMSdbV97YhE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +106,7 @@
 		</data>
 		<key>ShareView.nib</key>
 		<data>
-		q5eIELRexpsB46Bx24ScoVnmYA0=
+		mLfmUB004+fe2OEyEGJMqoFMizw=
 		</data>
 		<key>Simple.fragsh</key>
 		<data>
@@ -114,15 +122,35 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		wJ4wwjXSQbwinFc1he9ZJ4k3wlw=
+		4dm1UDQd2NbvNtpp0T3NekyOAFo=
+		</data>
+		<key>VuforiaSizzleReel_1.png</key>
+		<data>
+		8BWH2OC6gdZuYjMQrUdNWfq1kfU=
+		</data>
+		<key>VuforiaSizzleReel_2.png</key>
+		<data>
+		8BWH2OC6gdZuYjMQrUdNWfq1kfU=
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		B5udC/6CXz+Fxc8vEH0O+IuWVao=
+		YzrtxiBop1W7U/VyNeKObHgvWI4=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		JC5Hnwy6AF1312icEvVYL/vz9Wc=
+		cpbILGneC/89QJZkF2tbClVXC7I=
+		</data>
+		<key>icon_error.png</key>
+		<data>
+		PvENP7VtBiwylBHxUlF3dklmws8=
+		</data>
+		<key>icon_loading.png</key>
+		<data>
+		qziDchFSa6viUR5f3/v7Fm4aXB8=
+		</data>
+		<key>icon_play.png</key>
+		<data>
+		jojtkW+lBHyv4w+jIurEcC6eMVs=
 		</data>
 		<key>license_3rdpartynotice.txt</key>
 		<data>
@@ -134,7 +162,7 @@
 		</data>
 		<key>version.txt</key>
 		<data>
-		kJ6BRZTgFAvEdXVspD60tikf/Sw=
+		zJINzIBZcer3jWsd+3QUa/Ol5xc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,11 +171,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GbpXFz2wJSrTZXrmXDBMlRm2URc=
+			0NjcFO0IMWBvWX6QaYU6F3hjGlc=
 			</data>
 			<key>hash2</key>
 			<data>
-			/wA9ohE7Zd5FyZ8qV46x5TNy8dXQFY8SexMhGBe82ac=
+			9dsNQlgFhNGRMqPoSUIsTlNoj8d740JMEopWk/WXO6U=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -282,15 +310,37 @@
 			px5KudglquOWD2eOQx0vCjHeCqQG988YuwpxGWMnkR4=
 			</data>
 		</dict>
+		<key>Background.fragsh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IeNayTgEURD19toRH57m9q2B+Nw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ic0e2hXIEppg52Lo/KZylE2sBTAK/s5as6/sHXQEd0U=
+			</data>
+		</dict>
+		<key>Background.vertsh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AauD/LcjS5LBxUEwZaa1lBTmthQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			oVO0KhNZkbmX51EvAb5M1I90x2oaXV5ezazEDQwZJVY=
+			</data>
+		</dict>
 		<key>CTAView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			06m6XqieQ6A+qekBgMawRiyI7Dc=
+			z9JQFItrOLCD/i8wQ08ZCFdZoUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			lYrVgFvKzP5jQ9EeZYHmuO8Joc3qdTjX0ocRUGwIs14=
+			/AgF3LrhvKnOx6F728Sd+yJJnB6Xf6e6kdoQ/LsnUx4=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
@@ -352,22 +402,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oAhB01PIyJG1q5W2CMKKE3VAVOQ=
+			JwYFyqSP02BPC8q7VxaaRd55Kig=
 			</data>
 			<key>hash2</key>
 			<data>
-			bqm2IY13YnmDCfKHTkECrk43dbzJLWzmvu/tvIB+OKI=
+			Jy6TOa4asAk5mjn66bTcQ466n8u4s4aKK1coENj2K08=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oPEplVhrC0EW5Ca0uI5Yn6jJShI=
+			+0oQw+cwojFl27c2zMSdbV97YhE=
 			</data>
 			<key>hash2</key>
 			<data>
-			4sUnodTEPdrdgySK4e6iMNEmN7yjUmgNWB6cUapqqoo=
+			vl1wzZXLfgFNZizs19Rt7P45PAyMr/Sj6MBjAjMrWsc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -385,11 +435,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q5eIELRexpsB46Bx24ScoVnmYA0=
+			mLfmUB004+fe2OEyEGJMqoFMizw=
 			</data>
 			<key>hash2</key>
 			<data>
-			v4/XHZgK4UzU+lkpzChdXpnkSPq0gUdr1VcCqd2WOqE=
+			jdZfpKAWlwXhWvdKsgZl75Rv7UcE6bJQzhlgnxuKwaw=
 			</data>
 		</dict>
 		<key>Simple.fragsh</key>
@@ -429,33 +479,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wJ4wwjXSQbwinFc1he9ZJ4k3wlw=
+			4dm1UDQd2NbvNtpp0T3NekyOAFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jlEzM6m5w+NU5eNzoneheatZQkFMp/74FEBgbV/DuzA=
+			XeQc/bZq8AZCBLYW0SQWgWjqjPhc6/xEZQ+AeOq57CM=
+			</data>
+		</dict>
+		<key>VuforiaSizzleReel_1.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8BWH2OC6gdZuYjMQrUdNWfq1kfU=
+			</data>
+			<key>hash2</key>
+			<data>
+			p/rmxOxdTwqQMIdOwj0kGyrkInX7C7oOUOYEZlUBFD4=
+			</data>
+		</dict>
+		<key>VuforiaSizzleReel_2.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8BWH2OC6gdZuYjMQrUdNWfq1kfU=
+			</data>
+			<key>hash2</key>
+			<data>
+			p/rmxOxdTwqQMIdOwj0kGyrkInX7C7oOUOYEZlUBFD4=
 			</data>
 		</dict>
 		<key>WonderWomanVC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B5udC/6CXz+Fxc8vEH0O+IuWVao=
+			YzrtxiBop1W7U/VyNeKObHgvWI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rkVY1iYDwpTh9RZx4tHOdEgPzeFRFBDuLK6F7+JEXkw=
+			OoZY19J3lL0RsL/EYK2ty/e9rzM6KmdAvDwwp8H4C+o=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JC5Hnwy6AF1312icEvVYL/vz9Wc=
+			cpbILGneC/89QJZkF2tbClVXC7I=
 			</data>
 			<key>hash2</key>
 			<data>
-			s3eRZ1+sNpeMdCxK5TS650vUps38xZM6KyrCCm/1u10=
+			tWA3BdgFRpFWBnXhvB+2RgSbvX8aNo7UJvyyyLTW6Vo=
+			</data>
+		</dict>
+		<key>icon_error.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PvENP7VtBiwylBHxUlF3dklmws8=
+			</data>
+			<key>hash2</key>
+			<data>
+			x1wnEta/uS6RYdZ++oBikBlXnfHOs5jxQZc7h51r/uU=
+			</data>
+		</dict>
+		<key>icon_loading.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qziDchFSa6viUR5f3/v7Fm4aXB8=
+			</data>
+			<key>hash2</key>
+			<data>
+			qpzcXHsdhewqapLRIbjlNNnL2FRzDYsDk6qZUAE07u8=
+			</data>
+		</dict>
+		<key>icon_play.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jojtkW+lBHyv4w+jIurEcC6eMVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			VAnQmbL9ofeguYCNHxBl8hpFaYFcNzy0cA9kShh1MUw=
 			</data>
 		</dict>
 		<key>license_3rdpartynotice.txt</key>
@@ -484,11 +589,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kJ6BRZTgFAvEdXVspD60tikf/Sw=
+			zJINzIBZcer3jWsd+3QUa/Ol5xc=
 			</data>
 			<key>hash2</key>
 			<data>
-			K4KUgjZQ9zRmAFUojn7yp9IHENgrdVFcjfcJAonlA3Y=
+			VBm81iiTVktDTQmgJaGXTVGd7vz/S3rYyS6H8/IQsik=
 			</data>
 		</dict>
 	</dict>

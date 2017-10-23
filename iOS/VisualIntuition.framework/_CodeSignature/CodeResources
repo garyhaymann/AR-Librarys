@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		0NjcFO0IMWBvWX6QaYU6F3hjGlc=
+		H4tatYJXm4FfwN/m/ittM5XcaAU=
 		</data>
 		<key>AvenirLTStd-Black.otf</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>CTAView.nib</key>
 		<data>
-		z9JQFItrOLCD/i8wQ08ZCFdZoUQ=
+		Rx2zqcO3IjA0UIQKmcaePvihc4w=
 		</data>
 		<key>Headers/NRCameraViewController.h</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>MandtVRCell.nib</key>
 		<data>
-		JwYFyqSP02BPC8q7VxaaRd55Kig=
+		GpnDIeLqaSo0tNZSRzAQM48EQZo=
 		</data>
 		<key>MandtVRView.nib</key>
 		<data>
-		+0oQw+cwojFl27c2zMSdbV97YhE=
+		/zg7ikCTvQD97RZ0bmbwkACxEcg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ShareView.nib</key>
 		<data>
-		mLfmUB004+fe2OEyEGJMqoFMizw=
+		KvmiiovUYOTurzgBP8+y1TYplC4=
 		</data>
 		<key>Simple.fragsh</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>VideoPlaybackEAGLView.nib</key>
 		<data>
-		4dm1UDQd2NbvNtpp0T3NekyOAFo=
+		nTAZuwRXoHhsfyf8WpEVl/CWngo=
 		</data>
 		<key>VuforiaSizzleReel_1.png</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>WonderWomanVC.nib</key>
 		<data>
-		YzrtxiBop1W7U/VyNeKObHgvWI4=
+		Fkq2zmb/Uwu8GbEk3c6XkriKn3U=
 		</data>
 		<key>arrowsImage.nib</key>
 		<data>
-		cpbILGneC/89QJZkF2tbClVXC7I=
+		EIh0zmIMYltReBZWZ3MOSWAS1T0=
 		</data>
 		<key>icon_error.png</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>readme.txt</key>
 		<data>
-		ifndcr5Yf7B8hzXSTh1JUapWQxk=
+		0sNfb/3HPF3i8EMku7u5xSm27UE=
 		</data>
 		<key>version.txt</key>
 		<data>
@@ -171,11 +171,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0NjcFO0IMWBvWX6QaYU6F3hjGlc=
+			H4tatYJXm4FfwN/m/ittM5XcaAU=
 			</data>
 			<key>hash2</key>
 			<data>
-			9dsNQlgFhNGRMqPoSUIsTlNoj8d740JMEopWk/WXO6U=
+			EoO7QLsneqtdCi6g03/Zpm7f2adiO8iTim63SUQiBP4=
 			</data>
 		</dict>
 		<key>AvenirLTStd-Black.otf</key>
@@ -336,11 +336,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z9JQFItrOLCD/i8wQ08ZCFdZoUQ=
+			Rx2zqcO3IjA0UIQKmcaePvihc4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			/AgF3LrhvKnOx6F728Sd+yJJnB6Xf6e6kdoQ/LsnUx4=
+			zSJn4SsaAq3FoPyPasPyC7ktPX5Ik0KlNpXOqgNogU8=
 			</data>
 		</dict>
 		<key>Headers/NRCameraViewController.h</key>
@@ -402,22 +402,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JwYFyqSP02BPC8q7VxaaRd55Kig=
+			GpnDIeLqaSo0tNZSRzAQM48EQZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jy6TOa4asAk5mjn66bTcQ466n8u4s4aKK1coENj2K08=
+			iF8KGx/lkszzn+BxcmcVHyxjQf8mjxn7yp6r2s+S2r0=
 			</data>
 		</dict>
 		<key>MandtVRView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+0oQw+cwojFl27c2zMSdbV97YhE=
+			/zg7ikCTvQD97RZ0bmbwkACxEcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vl1wzZXLfgFNZizs19Rt7P45PAyMr/Sj6MBjAjMrWsc=
+			HWthk/37frY9IjxSgFJ13+WAffWjuk0oT8Q73zhdZUE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -435,11 +435,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mLfmUB004+fe2OEyEGJMqoFMizw=
+			KvmiiovUYOTurzgBP8+y1TYplC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			jdZfpKAWlwXhWvdKsgZl75Rv7UcE6bJQzhlgnxuKwaw=
+			v0rJgUknHkxno5NUIdPbnpzYvqHrW0q1kgCLF0d7qu0=
 			</data>
 		</dict>
 		<key>Simple.fragsh</key>
@@ -479,11 +479,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4dm1UDQd2NbvNtpp0T3NekyOAFo=
+			nTAZuwRXoHhsfyf8WpEVl/CWngo=
 			</data>
 			<key>hash2</key>
 			<data>
-			XeQc/bZq8AZCBLYW0SQWgWjqjPhc6/xEZQ+AeOq57CM=
+			CV3DsMaRA585/NcYDHio83lKNqumqdy8G7DNKkGKvkQ=
 			</data>
 		</dict>
 		<key>VuforiaSizzleReel_1.png</key>
@@ -512,22 +512,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YzrtxiBop1W7U/VyNeKObHgvWI4=
+			Fkq2zmb/Uwu8GbEk3c6XkriKn3U=
 			</data>
 			<key>hash2</key>
 			<data>
-			OoZY19J3lL0RsL/EYK2ty/e9rzM6KmdAvDwwp8H4C+o=
+			wiQzMEnuQ43WDe0B26GCgkaTW+hTTGh4uk2ccnQub9E=
 			</data>
 		</dict>
 		<key>arrowsImage.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cpbILGneC/89QJZkF2tbClVXC7I=
+			EIh0zmIMYltReBZWZ3MOSWAS1T0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tWA3BdgFRpFWBnXhvB+2RgSbvX8aNo7UJvyyyLTW6Vo=
+			/de9kfC8D+Xn4UOirZsdq5BWPOdTCrg5jw3LQ+5HI0Y=
 			</data>
 		</dict>
 		<key>icon_error.png</key>
@@ -578,11 +578,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ifndcr5Yf7B8hzXSTh1JUapWQxk=
+			0sNfb/3HPF3i8EMku7u5xSm27UE=
 			</data>
 			<key>hash2</key>
 			<data>
-			qCtc41Jtfm7U0zJYO47+xdUR++UE2Naf1BCYX6jnPCg=
+			vCoiFm7P5R9M4uhcY5Quohntfc3vT2CxzoGYwBGkko4=
 			</data>
 		</dict>
 		<key>version.txt</key>
